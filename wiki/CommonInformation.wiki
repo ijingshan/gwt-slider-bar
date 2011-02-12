@@ -16,7 +16,7 @@ https://lh4.googleusercontent.com/_uimY4ZD7jQU/TVWrr8Yrg1I/AAAAAAAAAdc/H3xBjnBfW
 Less widget, More widget, Scale widget and Drag widget are common GWT widgets (descendant of Widget class). This widgets must implement following interfaces:
 
 || *Widget* || *Interfaces* ||
-|| Less widget || HasMouseDownHandlers ||
-|| More widget || HasMouseDownHandlers ||
-|| Scale widget || HasMouseDownHandlers ||
-|| Drag widget || HasMouseDownHandlers, HasMouseUpHandlers, HasMouseMoveHandlers ||
+|| Less widget || !HasMouseDownHandlers ||
+|| More widget || !HasMouseDownHandlers ||
+|| Scale widget || !HasMouseDownHandlers ||
+|| Drag widget || !HasMouseDownHandlers, !HasMouseUpHandlers, !HasMouseMoveHandlers ||
