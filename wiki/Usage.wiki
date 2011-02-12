@@ -16,5 +16,44 @@ Minimal set of steps for usage !SliderBar:
 
   * Place !SliderBar to screen
 
-  
+*_Code samples for illlustrate this steps_*
+
+*_!SliderBar creation_*
+
+{{{
+public class SliderBarSimpleVertical extends SliderBarVertical {
+	
+	ImagesSliderBarSimpleVertical images = GWT.create(ImagesSliderBarSimpleVertical.class);
+
+	public SliderBarSimpleVertical(int maxValue, String height, boolean showRows) {		
+		if (showRows){
+			setLessWidget(new Image(images.less()) );
+			setScaleWidget(new Image(images.scalev().getUrl()), 10);
+			setMoreWidget(new Image(images.more()));
+		} else {
+		    setScaleWidget(new Image(images.scalev().getUrl()), 10);
+		}
+		setDragWidget(new Image(images.drag()));
+		this.setHeight(height);
+		this.setMaxValue(maxValue);		
+	}
+
+	interface ImagesSliderBarSimpleVertical extends ClientBundle{
+		
+		@Source("dragvthin.png")
+		ImageResource drag();
+
+		@Source("minus.png")
+		ImageResource less();
+
+		@Source("plus.png")
+		ImageResource more();
+
+		@Source("scalevthinblack.png")
+		DataResource scalev();				
+	}
+	
+}
+
+}}}  
 [CommonInformation Common information about SliderBars]
