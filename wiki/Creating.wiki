@@ -1,4 +1,5 @@
 #summary Creating of SliderBars
+#sidebar TableOfContents
 
 == Creating of !SliderBars ==
 
