@@ -19,7 +19,7 @@ Minimal set of steps for create abd usage !SliderBar:
 
   * Place !SliderBar to screen
 
-*_Code samples for illlustrate this steps_*
+*_Code samples for illlustrate this steps фтв another use cases_*
 
 _Creating implementation of !SliderBar_
 
