@@ -82,5 +82,8 @@ _Adding event listener_
 _Show scale marks_
 {{{
 ...
-                sliderBar.drawMarks(scaleColor.getItemText(scaleColor.getSelectedIndex()),delimSize);
+                sliderBar.drawMarks("white",6);
 }}}
+With help of above method it is possible to display scale mark. Scale mark is simple line (horizontal line for Vertical ScrollBar or vertical line for Horizontal ScrollBar). It is possible to set color and size of scale mark.
+
+_Set presence or absence of outline border vhen SliderBar widget is in focus_ 
