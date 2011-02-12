@@ -27,7 +27,7 @@ Some integer value corresponds to each position of Drag element. Zero correspond
 
 https://lh6.googleusercontent.com/_uimY4ZD7jQU/TVY1afnKhLI/AAAAAAAAAd8/_YjYZPLVOHw/dragvalue.png
 
-On above picture we can see which values correspond to different Drag widget position for horizontal !SliderBar (user sets max value to 7). 
+On above picture we can see which values correspond to different Drag widget position for horizontal !SliderBar (User sets max value to 7). 
 
 It is possible to interract with scrollbars by all availabble means:
 
