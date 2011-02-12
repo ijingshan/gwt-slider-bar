@@ -78,3 +78,9 @@ _Adding event listener_
 		});		
 ...
 }}}
+
+_Show scale marks_
+{{{
+...
+                sliderBar.drawMarks(scaleColor.getItemText(scaleColor.getSelectedIndex()),delimSize);
+}}}
