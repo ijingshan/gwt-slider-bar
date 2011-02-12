@@ -56,6 +56,13 @@ public class SliderBarSimpleVertical extends SliderBarVertical {
 	}
 	
 }
-
 }}}  
+
+_Creating instance of !SliderBar_
+{{{
+...
+SliderBarSimpleVertical sliderBarSimpleVertical = 
+			new SliderBarSimpleVertical(maxValue, width,  true);
+...
+}}}
 [CommonInformation Common information about SliderBars]
