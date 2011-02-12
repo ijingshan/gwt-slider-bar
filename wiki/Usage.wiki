@@ -2,4 +2,4 @@
 
 == Usage of !SliderBars ==
 
-[CommonInformation CommonInformation about SliderBars]
+[CommonInformation Common information about SliderBars]
