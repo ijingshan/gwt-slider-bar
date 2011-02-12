@@ -90,5 +90,5 @@ _Set presence or absence of outline border vhen !SliderBar widget is in focus_
 
 By default outline border presents when !SliderBar is in focus. To turn off this feature You have to use method:
 {{{
-              sliderBar.setNotSelectedInFocus(); 
+                sliderBar.setNotSelectedInFocus(); 
 }}}
