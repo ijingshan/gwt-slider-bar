@@ -37,5 +37,3 @@ It is possible to interract with scrollbars by all availabble means:
   # use mouse wheel						
 
 When position of knob is changed '!BarValueChangedEvent' is fired. You cen react to this event by adding '!BarValueChangedHandler'  hasndler to !SliderBar.  
-
-[Usage Usage SliderBars]
