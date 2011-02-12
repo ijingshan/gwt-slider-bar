@@ -1,5 +1,5 @@
 #summary Common Information about SliderBars
-== Common infrmation ==
+== Common information ==
 You can create and use Horizontal and Vertical Sliderbars. Each !SliderBar consists of a set of elements. Elements are shown on picture below. You can create elements and design !SliderBars of this elements. 
 
 https://lh4.googleusercontent.com/_uimY4ZD7jQU/TVWqFDTC8ZI/AAAAAAAAAdM/B2q9Xa9mLec/SliderBarCommon.png
