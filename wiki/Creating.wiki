@@ -30,7 +30,7 @@ _Note:_
 
 Scale widget is thin vertical line. This line will be resized with help of _setWidth(...)_ method when we start use this !SliderBar.  Similarly, for vertical !SliderBar, Scale widget may be represented by thin horizontal line. Resizing of scale of vertical !SliderBar will be carried out when we start usage of _setHeight(...)_ method. Other widget will not be resized during !SliderBar creation.
 
-*_Code sample of SliderBar creation:_*
+*_Code sample of !SliderBar creation:_*
 
 {{{
 import com.google.gwt.core.client.GWT;
