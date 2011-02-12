@@ -85,7 +85,13 @@ _Show scale marks_
                 sliderBar.drawMarks("white",6);
                 ...
 }}}
-With help of above method it is possible to display scale mark. Scale mark is simple line (horizontal line for Vertical !SliderBar or vertical line for Horizontal !SliderBar). It is possible to set color and size of scale mark.
+With help of above method it is possible to display scale mark. Scale mark is simple line (horizontal line for Vertical !SliderBar or vertical line for Horizontal !SliderBar). It is possible to set color and size of scale mark. The marks will be drawn if distance beetveen neighbouring mark in pixels more then some predetermined value. To ajust this value You have to use method
+{{{
+                ...
+                sliderBar.setMinMarkStep(3);
+                ...
+
+}}}
 
 _Set presence or absence of outline border vhen !SliderBar widget is in focus_ 
 
