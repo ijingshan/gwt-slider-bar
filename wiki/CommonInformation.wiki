@@ -12,3 +12,7 @@ https://lh3.googleusercontent.com/_uimY4ZD7jQU/TVWq-LwpgdI/AAAAAAAAAdU/dWppu8Mv-
 https://lh4.googleusercontent.com/_uimY4ZD7jQU/TVWrr8Yrg1I/AAAAAAAAAdc/H3xBjnBfWeo/twomore.png
 
 !SliderBar on picture above includes two 'more' elements and one 'less' element (except scale and drag).
+Less widget, More widget, Scale widget and Drag widget are common GWT widgets (descendant of Widget class). This widgets must implement following interfaces:
+
+||*Widget*||*Interfaces*||
+|| Less widget|| ||
