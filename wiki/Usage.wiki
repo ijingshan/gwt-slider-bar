@@ -69,20 +69,21 @@ SliderBarSimpleVertical sliderBarSimpleVertical =
 
 _Adding event listener_
 {{{
-...
+                ...
 		sliderBarSimpleVertical
 		.addBarValueChangedHandler(new BarValueChangedHandler() {
 			public void onBarValueChanged(BarValueChangedEvent event) {
 				valueBox.setValue("" + event.getValue());
 			}
 		});		
-...
+                ...
 }}}
 
 _Show scale marks_
 {{{
-...
+                ...
                 sliderBar.drawMarks("white",6);
+                ...
 }}}
 With help of above method it is possible to display scale mark. Scale mark is simple line (horizontal line for Vertical !SliderBar or vertical line for Horizontal !SliderBar). It is possible to set color and size of scale mark.
 
@@ -90,5 +91,21 @@ _Set presence or absence of outline border vhen !SliderBar widget is in focus_
 
 By default outline border presents when !SliderBar is in focus. To turn off this feature You have to use method:
 {{{
+                ...
                 sliderBar.setNotSelectedInFocus(); 
+                ...
+}}}
+
+_Change Drag element (knob) position programmaticaly_
+
+{{{
+                 sliderBar.setValue(valueInt);
+}}}
+
+_Change max value programmaticaly_
+
+{{{
+                 ...
+                 sliderBar.setMaxValue(valueInt);
+                 ... 
 }}}
