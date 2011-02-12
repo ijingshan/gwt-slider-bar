@@ -4,10 +4,15 @@
 
 Then !SliderBar is created it is time to start use it.
 
-Minimal set of steps for usage SliderBar:
+Minimal set of steps for usage !SliderBar:
 
-Create SliderBar instance
-Set width of !SliderBar for SliderBarHorizontal or height for SliderBarVertical.
-Set integer value, which corresponds to rightmost position of Drag wiidget (knob) for horizontal !SliderBar or for bottommost position of Drag widget  for vertical SliderBar.
+* Create SliderBar instance
+
+* Set width of !SliderBar for SliderBarHorizontal or height for SliderBarVertical.
+
+* Set integer value, which corresponds to rightmost position of Drag wiidget (knob) for horizontal !SliderBar or for bottommost position of Drag widget  for vertical SliderBar.
+
+* Place SliderBar to screen
+
   
 [CommonInformation Common information about SliderBars]
