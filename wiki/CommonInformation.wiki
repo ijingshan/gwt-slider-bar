@@ -1,4 +1,5 @@
 #summary Common Information about SliderBars
+#sidebar TableOfContents
 == Common information ==
 You can create and use Horizontal and Vertical Sliderbars. Each !SliderBar consists of a set of elements. Elements are shown on picture below. You can create elements and design !SliderBars of this elements. 
 
