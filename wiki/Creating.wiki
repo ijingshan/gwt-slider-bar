@@ -28,6 +28,6 @@ In this example all above widgets are instances of com.google.gwt.user.client.ui
 
 _Note:_
 
-Scale widget is thin vertical line. This line will be resized with help of _setWidth(...)_ method when we start use this SliderBar.  Similarly, for vertical SliderBar, Scale widget may be represented by thin horizontal line. Other widget will not be resized during !SliderBar creation. 
+Scale widget is thin vertical line. This line will be resized with help of _setWidth(...)_ method when we start use this !SliderBar.  Similarly, for vertical !SliderBar, Scale widget may be represented by thin horizontal line. Resizing of scale of vertical SliderBar will be carried out when we start usage of _setHeight(...)_ method. Other widget will not be resized during !SliderBar creation. 
 
 [CommonInformation Common information about SliderBars]
