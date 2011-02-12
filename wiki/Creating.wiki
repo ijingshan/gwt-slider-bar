@@ -13,7 +13,7 @@ We want create !SliderBar which will be look like drawn on picture below.
 https://lh6.googleusercontent.com/_uimY4ZD7jQU/TVY97GcjoeI/AAAAAAAAAeE/vzyD2uAinQ8/kdelefth.png
 
 
-Building blocs of !SliderBar
+*_Building blocs of !SliderBar_*
 
 https://lh3.googleusercontent.com/_uimY4ZD7jQU/TVY_Rc6_cyI/AAAAAAAAAeM/hEnoqqk59b8/kdehless.png Less widget
 
