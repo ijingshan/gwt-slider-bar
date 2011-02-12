@@ -1,3 +1,5 @@
 #summary Usage of SliderBars
 
-== Usage of SliderBars ==
+== Usage of !SliderBars ==
+
+[CommonInformation CommonInformation about SliderBars]
