@@ -10,8 +10,7 @@ For creating horizontal !SliderBar You have to use class _!SliderBarHorizontal_.
 
 We want create SliderBar which will be look like drawn on picture below.
 
-
-
+https://lh6.googleusercontent.com/_uimY4ZD7jQU/TVY97GcjoeI/AAAAAAAAAeE/vzyD2uAinQ8/kdelefth.png
 
 
  
