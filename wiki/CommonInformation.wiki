@@ -22,4 +22,4 @@ Less widget, More widget, Scale widget and Drag widget are common GWT widgets (d
 || Scale widget || !HasMouseDownHandlers ||
 || Drag widget || !HasMouseDownHandlers, !HasMouseUpHandlers, !HasMouseMoveHandlers ||
 
-Some integer value corresponds to each position of Drag widget. Zero corresponds to leftmost position of horizontal !SliderBar or topmost position of vertical !SliderBar. Value which corresponds to rightmost position of Drag widget of horizontal SliderBar or bottommost position of vertical SliderBar is defined by User. 
+Some integer value corresponds to each position of Drag widget. Zero corresponds to leftmost position of horizontal !SliderBar or topmost position of vertical !SliderBar. Value which corresponds to rightmost position of Drag widget of horizontal !SliderBar or bottommost position of vertical !SliderBar is defined by User. 
