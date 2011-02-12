@@ -58,11 +58,23 @@ public class SliderBarSimpleVertical extends SliderBarVertical {
 }
 }}}  
 
-_Creating instance of !SliderBar_
+_Creating instance of !SliderBar and seting height and max integer value, which corresponds to bottommost drag position_
 {{{
 ...
 SliderBarSimpleVertical sliderBarSimpleVertical = 
 			new SliderBarSimpleVertical(maxValue, width,  true);
+...
+}}}
+
+_Adding event listener_
+{{{
+...
+		sliderBarSimpleVertical
+		.addBarValueChangedHandler(new BarValueChangedHandler() {
+			public void onBarValueChanged(BarValueChangedEvent event) {
+				valueBox.setValue("" + event.getValue());
+			}
+		});		
 ...
 }}}
 [CommonInformation Common information about SliderBars]
