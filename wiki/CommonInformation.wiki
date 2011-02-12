@@ -28,4 +28,12 @@ https://lh6.googleusercontent.com/_uimY4ZD7jQU/TVY1afnKhLI/AAAAAAAAAd8/_YjYZPLVO
 
 We can see which value will be correspond to different Drag widget position for horizontal !SliderBar if user sets max value, which corresponds to rightmost knob position, to 7. 
 
+It is possible to interracr with scrollbars by all availabble means:
+
+  # drag knob 
+  # clic mouse on scale or on scale arrows
+  # use arrow keys on clipboard
+  # use mouse wheel						
+
+
 [Usage Usage SliderBars]
