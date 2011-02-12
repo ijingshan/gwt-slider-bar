@@ -115,3 +115,5 @@ _Change max value programmaticaly_
                  sliderBar.setMaxValue(valueInt);
                  ... 
 }}}
+
+You can see above method in action by explore interractive sample in demo application 
