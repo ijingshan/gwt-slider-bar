@@ -13,8 +13,15 @@ We want create !SliderBar which will be look like drawn on picture below.
 https://lh6.googleusercontent.com/_uimY4ZD7jQU/TVY97GcjoeI/AAAAAAAAAeE/vzyD2uAinQ8/kdelefth.png
 
 
-Building blocs of SliderBar
+Building blocs of !SliderBar
 
+https://lh3.googleusercontent.com/_uimY4ZD7jQU/TVY_Rc6_cyI/AAAAAAAAAeM/hEnoqqk59b8/kdehless.png Less widget
+
+https://lh5.googleusercontent.com/_uimY4ZD7jQU/TVY_RjyMC-I/AAAAAAAAAeQ/i5QHZSO6Tgg/kdehmore.png More widget
+
+https://lh6.googleusercontent.com/_uimY4ZD7jQU/TVY_RgXJcMI/AAAAAAAAAeU/2b90x50cbM8/kdehdrag.png Drag widget
+
+https://lh3.googleusercontent.com/_uimY4ZD7jQU/TVY_RyBFZdI/AAAAAAAAAeY/2rcIgfDeVFM/kdehscale.png Scale widget
  
 
 [CommonInformation Common information about SliderBars]
