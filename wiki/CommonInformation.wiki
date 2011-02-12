@@ -27,3 +27,5 @@ Some integer value corresponds to each position of Drag widget. Zero corresponds
 https://lh6.googleusercontent.com/_uimY4ZD7jQU/TVY1afnKhLI/AAAAAAAAAd8/_YjYZPLVOHw/dragvalue.png
 
 We can see which value will be correspond to different Drag widget position for horizontal !SliderBar if user sets max value, which corresponds to rightmost knob position, to 7. 
+
+Usage
