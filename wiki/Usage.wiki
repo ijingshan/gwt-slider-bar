@@ -4,7 +4,9 @@
 
 Then !SliderBar is created it is time to start use it.
 
-Minimal set of steps for usage !SliderBar:
+Minimal set of steps for create abd usage !SliderBar:
+
+  * Create Your implementation of !SliderBar ( not absolutly necessary - You can use earlier predefined !SliderBar from some kind of SliderBar library )
 
   * Create !SliderBar instance
 
@@ -18,7 +20,7 @@ Minimal set of steps for usage !SliderBar:
 
 *_Code samples for illlustrate this steps_*
 
-*_!SliderBar creation_*
+_Creating implementation of !SliderBar_
 
 {{{
 public class SliderBarSimpleVertical extends SliderBarVertical {
