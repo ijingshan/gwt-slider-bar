@@ -73,3 +73,14 @@ public class KDEHorizontalLeftBW extends SliderBarHorizontal {
 	
 }
 }}} 
+
+{{{
+		Button setValueButton = new Button("Set Current Value");
+		TextBox valueBox = new TextBox();
+		Label valueInfoLabel = new Label("This value coresponds to current knob positin.");
+		CheckBox showScale = new CheckBox("Show scale");
+		Button setMaxValueButton = new Button("Set Max Value");
+		TextBox maxValueBox = new TextBox();
+		Label maxValueInfoLabel = new Label();
+
+}}}
