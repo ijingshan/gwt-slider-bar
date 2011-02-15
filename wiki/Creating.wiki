@@ -34,7 +34,7 @@ Scale widget is thin vertical line. This line will be resized with help of _setW
 *_Code sample of !SliderBar creation:_*
 
 {{{
-import com.google.gwt.core.client.GWT;
+import com.google.gwt.core.client.GWT;`<BR>`
 import com.google.gwt.resources.client.ClientBundle;
 import com.google.gwt.resources.client.DataResource;
 import com.google.gwt.resources.client.ImageResource;
