@@ -5,8 +5,7 @@
 
 Before usage, !SliderBar must be created . You can create horizontal or vertical !SliderBar. It is simple task.  
 
-_Note:_
-
+_Note:_<br>
 Set of ready to use !SliderBars are included to distributed package and You can use this these widgets without creation.
 
 
