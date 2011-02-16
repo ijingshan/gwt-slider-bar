@@ -3,7 +3,12 @@
 
 == Creating of !SliderBars ==
 
-Before usage, !SliderBar must be created. You can create horizontal or vertical !SliderBar. It is simple task.  
+Before usage, !SliderBar must be created . You can create horizontal or vertical !SliderBar. It is simple task.  
+
+_Note:_
+
+Set of ready to use !SliderBars are included to distributed package and You can use this these widgets without creation.
+
 
 For creating horizontal !SliderBar You have to use class _!SliderBarHorizontal_.  For creating vertical !SliderBar You have to use class _!SliderBarVertical_.Then You have to add all necessary elements (More and Less widgets, scale widget and Drag widget) in the order in which they will be displayed on the screen (for Drag widget order is not important).  For horizontal !SliderBar this order is from left to right. For vertical !SliderBar this order is from top to bottom.
 
