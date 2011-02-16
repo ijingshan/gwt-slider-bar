@@ -19,6 +19,8 @@ https://lh4.googleusercontent.com/_uimY4ZD7jQU/TVWrr8Yrg1I/AAAAAAAAAdc/H3xBjnBfW
 
 !SliderBar on picture above includes two 'more' elements and one 'less' element (except scale and drag).
 
+===Requirements for elements===
+
 Less element, More element, Scale element and Drag element are common GWT widgets (descendant of Widget class). This widgets must implement following interfaces:
 
 || *Widget* || *Interfaces* ||
@@ -26,6 +28,8 @@ Less element, More element, Scale element and Drag element are common GWT widget
 || More widget || !HasMouseDownHandlers ||
 || Scale widget || !HasMouseDownHandlers ||
 || Drag widget || !HasMouseDownHandlers, !HasMouseUpHandlers, !HasMouseMoveHandlers ||
+
+===Common approaches to the use of SliderBar===
 
 Some integer value corresponds to each position of Drag element. Zero corresponds to leftmost position of horizontal !SliderBar or topmost position of vertical !SliderBar. Value which corresponds to rightmost position of Drag widget of horizontal !SliderBar (or bottommost position of vertical !SliderBar) is defined by User. 
 
