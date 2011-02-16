@@ -7,13 +7,13 @@ https://lh4.googleusercontent.com/_uimY4ZD7jQU/TVWqFDTC8ZI/AAAAAAAAAdM/B2q9Xa9mL
 
 Scale and drag (knob) are required components of !SliderBar. !SliderBar  may include only one drag element and only one scale element. !SliderBar may include zero or more 'less' and 'more' elements. See examples below.  
 
-_Example 1_
+_*Example 1*_
 
 https://lh3.googleusercontent.com/_uimY4ZD7jQU/TVWq-LwpgdI/AAAAAAAAAdU/dWppu8Mv-zE/scaledrag.png
 
 !SliderBar on picture above consists only of scale and drag (knob) elements (without 'more' or 'less' elements).
 
-_Example 2_
+_*Example 2*_
 
 https://lh4.googleusercontent.com/_uimY4ZD7jQU/TVWrr8Yrg1I/AAAAAAAAAdc/H3xBjnBfWeo/twomore.png
 
