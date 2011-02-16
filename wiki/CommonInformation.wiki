@@ -5,7 +5,7 @@ You can create  Horizontal and Vertical Sliderbars. Each !SliderBar consists of 
 
 https://lh4.googleusercontent.com/_uimY4ZD7jQU/TVWqFDTC8ZI/AAAAAAAAAdM/B2q9Xa9mLec/SliderBarCommon.png
 
-Scale and drag (knob) are required components of !SliderBar. !SliderBar  may include only one drag element and only one scale element. !SliderBar may include zero or more 'less' and 'more' elements.   
+Scale and drag (knob) are required components of !SliderBar. !SliderBar  may include only one drag element and only one scale element. !SliderBar may include zero or more 'less' and 'more' elements. See examples below.  
 
 https://lh3.googleusercontent.com/_uimY4ZD7jQU/TVWq-LwpgdI/AAAAAAAAAdU/dWppu8Mv-zE/scaledrag.png
 
